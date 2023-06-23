@@ -1,10 +1,7 @@
 # By @TroJanzHEX
 from pyrogram import Client
 import os
-
-    from sample_config import Config
-
-
+from sample_config import Config
 if __name__ == "__main__":
     plugins = dict(root="plugins")
 
