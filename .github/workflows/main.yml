@@ -36,7 +36,21 @@ jobs:
 
         run: |
 
-          pip install aiohttp python-decouple pyaesni https://github.com/1Danish-00/Telethon/archive/master.zip html_telegraph_poster requests
+          pip install NumPy
+          pip install NumPy
+tgcrypto
+
+Pillow
+
+pyrogram
+
+glitch_this
+
+requests
+
+opencv-python-headless
+
+config
 
       - name: 🏃‍♂️ Run the UserClient. 🏃‍♂️
 
